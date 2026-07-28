@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/sinchanaudupa/LeetCode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/sinchanaudupa/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sinchanaudupa/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sinchanaudupa/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/sinchanaudupa/LeetCode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/sinchanaudupa/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sinchanaudupa/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sinchanaudupa/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sinchanaudupa/LeetCode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/sinchanaudupa/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
 |  |
 | ------- |
