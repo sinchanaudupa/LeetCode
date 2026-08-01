@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1652-defuse-the-bomb](https://github.com/sinchanaudupa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [3536-maximum-product-of-two-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
