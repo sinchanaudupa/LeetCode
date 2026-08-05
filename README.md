@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sinchanaudupa/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/sinchanaudupa/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sinchanaudupa/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
