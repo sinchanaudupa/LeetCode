@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
 | [1652-defuse-the-bomb](https://github.com/sinchanaudupa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sinchanaudupa/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sinchanaudupa/LeetCode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
