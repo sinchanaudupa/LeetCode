@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sinchanaudupa/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/sinchanaudupa/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/sinchanaudupa/LeetCode/tree/master/0520-detect-capital) |
 ## Enumeration
 |  |
 | ------- |
