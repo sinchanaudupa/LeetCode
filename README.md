@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sinchanaudupa/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sinchanaudupa/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sinchanaudupa/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sinchanaudupa/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sinchanaudupa/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/sinchanaudupa/LeetCode/tree/master/0231-power-of-two) |
