@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
 | [1652-defuse-the-bomb](https://github.com/sinchanaudupa/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sinchanaudupa/LeetCode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sinchanaudupa/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/sinchanaudupa/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/sinchanaudupa/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/sinchanaudupa/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Game Theory
 |  |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
