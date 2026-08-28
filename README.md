@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sinchanaudupa/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/sinchanaudupa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sinchanaudupa/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sinchanaudupa/LeetCode/tree/master/0169-majority-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sinchanaudupa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
