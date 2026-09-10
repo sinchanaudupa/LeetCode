@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
 | [1652-defuse-the-bomb](https://github.com/sinchanaudupa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/sinchanaudupa/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sinchanaudupa/LeetCode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/sinchanaudupa/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sinchanaudupa/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Recursion
 |  |
