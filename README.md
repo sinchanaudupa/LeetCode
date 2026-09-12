@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sinchanaudupa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/sinchanaudupa/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sinchanaudupa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0136-single-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sinchanaudupa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sinchanaudupa/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sinchanaudupa/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/sinchanaudupa/LeetCode/tree/master/0389-find-the-difference) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sinchanaudupa/LeetCode/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sinchanaudupa/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
