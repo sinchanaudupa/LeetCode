@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sinchanaudupa/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sinchanaudupa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sinchanaudupa/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sinchanaudupa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sinchanaudupa/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sinchanaudupa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sinchanaudupa/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sinchanaudupa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sinchanaudupa/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
