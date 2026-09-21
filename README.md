@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
+| [1470-shuffle-the-array](https://github.com/sinchanaudupa/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/sinchanaudupa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sinchanaudupa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/sinchanaudupa/LeetCode/tree/master/1920-build-array-from-permutation) |
