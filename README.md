@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sinchanaudupa/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sinchanaudupa/LeetCode/tree/master/0389-find-the-difference) |
 | [0457-circular-array-loop](https://github.com/sinchanaudupa/LeetCode/tree/master/0457-circular-array-loop) |
+| [0771-jewels-and-stones](https://github.com/sinchanaudupa/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sinchanaudupa/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sinchanaudupa/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sinchanaudupa/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/sinchanaudupa/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Enumeration
 |  |
 | ------- |
