@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sinchanaudupa/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/sinchanaudupa/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/sinchanaudupa/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/sinchanaudupa/LeetCode/tree/master/0724-find-pivot-index) |
 | [0825-friends-of-appropriate-ages](https://github.com/sinchanaudupa/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/sinchanaudupa/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/sinchanaudupa/LeetCode/tree/master/0877-stone-game) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sinchanaudupa/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sinchanaudupa/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
